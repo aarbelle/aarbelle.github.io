@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Assaf Arbelle (Ph.D)"
 title_separator          : "-"
 name                     : &name "Assaf Arbelle"
-description              : &description "Computer Vision Researcher"
+description              : &description "Senior Researcher and Manager at IBM Research"
 url                      : https://aarbelle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aarbelle/aarbelle.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Assaf Arbelle"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Senior Researcher Scientist and Manager of the AI-Vision Group @ IBM Research"
   location         : "Israel"
   employer         : "IBM Research"
