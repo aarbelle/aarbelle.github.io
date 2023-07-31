@@ -22,14 +22,14 @@ Work experience
   * AI-Vision Group
 
 * 2020-2022: Research Scientist
- * IBM Research
-* AI-Vision Group
+  * IBM Research
+  * AI-Vision Group
 
 * 2016-2020: Algorithm Developer
- * XiaoYi Multimedia
+  * XiaoYi Multimedia
 
 * 2014-2016: Algorithm Developer
- * Applied Materials
+  * Applied Materials
 
 
   
