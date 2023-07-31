@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Electircal and Computer Engineering, Ben Gurion University of the Negev, Israel, 2013
