@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-10-struct_rep
 excerpt: ''
 date: 2023-04-10
-venue: 'Nature Methods'
+venue: 'ArXiv'
 paperurl: https://arxiv.org/pdf/2305.06343
 citation: Herzig, R., Mendelson, A., Karlinsky, L., Arbelle, A., Feris, R., Darrell, T. and Globerson, A., 2023. &quot;Incorporating structured representations into pretrained vision & language models using scene graphs.&quot; arXiv preprint arXiv:2305.06343.
 
