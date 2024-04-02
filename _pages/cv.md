@@ -18,6 +18,10 @@ Education
 
 Work experience
 ======
+* 2024: Senior Research Scientist and Manager
+  * IBM Research
+  * Multimodal-AI Group
+
 * 2023: Senior Research Scientist and Manager
   * IBM Research
   * AI-Vision Group
